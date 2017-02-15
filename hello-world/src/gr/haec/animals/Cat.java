@@ -10,9 +10,9 @@ public class Cat extends Mammal{
 		this.breed=breed;
 		this.colour=colour;
 	}
-	
+	//make a change
 	public String toString () {
-		return "Ειμαι ρατσα " + breed + " και χρωμα " + colour;
+		return "οΏ½οΏ½οΏ½οΏ½οΏ½ οΏ½οΏ½οΏ½οΏ½οΏ½ " + breed + " οΏ½οΏ½οΏ½ οΏ½οΏ½οΏ½οΏ½οΏ½ " + colour;
 	}
 
 }
